@@ -1,2 +1,2 @@
 lightning-bolts
-opencv-python
+opencv-python-headless
